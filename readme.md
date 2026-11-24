@@ -38,3 +38,7 @@ The optics, board and speaker go in the right arm, and the battery goes in the l
 It's just a dim OLED and some glass, so it won't hurt your eyes. The battery has a protection circuit, and the red LED is always on when the camera or mic is recording.
 
 Built for [Hack Club Fabricate](https://hackclub.com).
+
+## AI Usage
+
+I use Claude AI in order to organize the BOM and solve problems like why I can't order or do check out and put into my cart.
