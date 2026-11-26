@@ -39,6 +39,11 @@ It's just a dim OLED and some glass, so it won't hurt your eyes. The battery has
 
 Built for [Hack Club Fabricate](https://hackclub.com).
 
+## Wiring Diagram
+
+<img width="2100" height="1410" alt="wiring" src="https://github.com/user-attachments/assets/4ce3d581-b6b1-4cc3-82c1-cbbb820d65b5" />
+
+
 ## AI Usage
 
-I use Claude AI in order to organize the BOM and solve problems like why I can't order or do check out and put into my cart.
+I use Claude AI in order to organize the BOM and solve problems like why I can't order or do check out and put into my cart. Also used claude AI to visualize the wiring diagram.
